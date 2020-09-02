@@ -1,7 +1,7 @@
 # Raspberry Software
 
 ## Authors:
-- [Jonathan Treffler](https://github.com/TessyPowder)
+- [Jonathan Treffler](https://github.com/JonathanTreffler)
 - Janik Atzenbeck
 - Christoph Greger
 
